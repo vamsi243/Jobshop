@@ -1,0 +1,2 @@
+# Jobshop
+Created an NLP model to classify job categories based on fastText, glove, and googlenews360 pre-trained models. Compared all 3 models and chose the best fit model on the extracted data. Created a simple flask project to display static web pages of job data. When an employee provides the description of the job, based on the data, the platform automatically classifies it into a Job category.
